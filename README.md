@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rachienguyen
-- 👀 I’m interested in Fintech
+- 👋 Hi, I’m Rachel
+- 👀 Interested in Data Science and Computer Science 
 - 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on fintech projects
-- Reaching me thru instagram: @rachienguyen
+- 💞️ I’m looking for opportunity in programming projects
 
 <!---
 rachienguyen/rachienguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
